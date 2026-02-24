@@ -19,7 +19,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 
 # Define the params for RF model
 max_depth = 10
-n_estimators = 6
+n_estimators = 5
 
 # Mention your experiment below
 mlflow.autolog()
