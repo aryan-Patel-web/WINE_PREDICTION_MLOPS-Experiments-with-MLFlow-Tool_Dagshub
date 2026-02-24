@@ -22,6 +22,8 @@ param_grid = {
     'max_depth': [None, 10, 20, 30]
 }
 
+
+
 # Applying GridSearchCV
 grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1, verbose=2)
 
