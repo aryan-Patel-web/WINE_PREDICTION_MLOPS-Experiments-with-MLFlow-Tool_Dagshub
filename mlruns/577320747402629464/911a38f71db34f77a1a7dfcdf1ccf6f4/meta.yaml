@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/911a38f71db34f77a1a7dfcdf1ccf6f4/artifacts
+end_time: 1771968006641
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 911a38f71db34f77a1a7dfcdf1ccf6f4
+run_name: beautiful-frog-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006574
+status: 3
+tags: []
+user_id: aryan

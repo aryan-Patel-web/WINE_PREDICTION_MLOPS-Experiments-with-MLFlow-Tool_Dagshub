@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/9177517030b442d7acfe097e03df2e7f/artifacts
+end_time: 1771969721821
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 9177517030b442d7acfe097e03df2e7f
+run_name: handsome-cat-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771969721704
+status: 3
+tags: []
+user_id: aryan

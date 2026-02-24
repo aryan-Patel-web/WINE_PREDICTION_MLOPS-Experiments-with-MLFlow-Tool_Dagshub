@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/6c64b88f0e314ee4a804096375f81e11/artifacts
+end_time: 1771969722591
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 6c64b88f0e314ee4a804096375f81e11
+run_name: handsome-penguin-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771969722527
+status: 3
+tags: []
+user_id: aryan

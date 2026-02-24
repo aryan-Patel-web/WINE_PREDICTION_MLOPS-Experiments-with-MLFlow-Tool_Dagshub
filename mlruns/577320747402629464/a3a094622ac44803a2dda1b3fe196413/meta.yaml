@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/a3a094622ac44803a2dda1b3fe196413/artifacts
+end_time: 1771968006698
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: a3a094622ac44803a2dda1b3fe196413
+run_name: unruly-flea-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006648
+status: 3
+tags: []
+user_id: aryan

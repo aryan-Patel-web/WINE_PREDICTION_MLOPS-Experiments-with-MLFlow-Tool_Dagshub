@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/c81093c57fa348b3a72945471fb29aa7/artifacts
+end_time: 1771968023506
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: c81093c57fa348b3a72945471fb29aa7
+run_name: languid-bird-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771967996513
+status: 3
+tags: []
+user_id: aryan

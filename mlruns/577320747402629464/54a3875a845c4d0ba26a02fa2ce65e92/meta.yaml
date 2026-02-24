@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/54a3875a845c4d0ba26a02fa2ce65e92/artifacts
+end_time: 1771968006987
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 54a3875a845c4d0ba26a02fa2ce65e92
+run_name: bold-swan-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006919
+status: 3
+tags: []
+user_id: aryan

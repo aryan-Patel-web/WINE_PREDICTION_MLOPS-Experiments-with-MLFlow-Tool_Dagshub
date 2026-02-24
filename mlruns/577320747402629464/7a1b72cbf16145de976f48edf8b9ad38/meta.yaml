@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/7a1b72cbf16145de976f48edf8b9ad38/artifacts
+end_time: 1771968006911
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 7a1b72cbf16145de976f48edf8b9ad38
+run_name: skittish-sheep-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006852
+status: 3
+tags: []
+user_id: aryan

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/efc1064fc41a42eea367a428ef754f84/artifacts
+end_time: 1771968006496
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: efc1064fc41a42eea367a428ef754f84
+run_name: silent-quail-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006430
+status: 3
+tags: []
+user_id: aryan

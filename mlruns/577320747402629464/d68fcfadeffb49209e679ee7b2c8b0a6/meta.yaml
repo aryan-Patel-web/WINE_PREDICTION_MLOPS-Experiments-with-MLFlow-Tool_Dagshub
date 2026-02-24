@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/d68fcfadeffb49209e679ee7b2c8b0a6/artifacts
+end_time: 1771969722145
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: d68fcfadeffb49209e679ee7b2c8b0a6
+run_name: calm-hound-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771969722081
+status: 3
+tags: []
+user_id: aryan

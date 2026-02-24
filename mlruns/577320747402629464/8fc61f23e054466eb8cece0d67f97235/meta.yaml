@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/8fc61f23e054466eb8cece0d67f97235/artifacts
+end_time: 1771968006237
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 8fc61f23e054466eb8cece0d67f97235
+run_name: skillful-hare-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968005703
+status: 3
+tags: []
+user_id: aryan

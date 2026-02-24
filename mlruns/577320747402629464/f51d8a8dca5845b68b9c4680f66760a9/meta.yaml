@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/f51d8a8dca5845b68b9c4680f66760a9/artifacts
+end_time: 1771968006311
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: f51d8a8dca5845b68b9c4680f66760a9
+run_name: casual-fish-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006247
+status: 3
+tags: []
+user_id: aryan

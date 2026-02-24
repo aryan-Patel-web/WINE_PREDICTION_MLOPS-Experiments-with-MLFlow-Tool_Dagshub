@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/dfffde87e02d4f5fafc35288f3fca44c/artifacts
+end_time: 1771969721994
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: dfffde87e02d4f5fafc35288f3fca44c
+run_name: caring-sloth-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771969721922
+status: 3
+tags: []
+user_id: aryan

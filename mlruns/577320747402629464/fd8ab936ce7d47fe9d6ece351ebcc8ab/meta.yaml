@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/fd8ab936ce7d47fe9d6ece351ebcc8ab/artifacts
+end_time: 1771968006846
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: fd8ab936ce7d47fe9d6ece351ebcc8ab
+run_name: unleashed-gull-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006784
+status: 3
+tags: []
+user_id: aryan

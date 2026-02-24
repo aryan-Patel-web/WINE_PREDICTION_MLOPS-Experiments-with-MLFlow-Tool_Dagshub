@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/92eb938128d641289e20234b31be80a4/artifacts
+end_time: 1771969722421
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 92eb938128d641289e20234b31be80a4
+run_name: funny-rat-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771969722362
+status: 3
+tags: []
+user_id: aryan

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS-36-Plus-Hours/MLOPS-Experiments-with-MLFlow-Tool/mlruns/577320747402629464/82abbf2a6365444b9eb23d4c6ede54be/artifacts
+end_time: 1771968006775
+entry_point_name: ''
+experiment_id: '577320747402629464'
+lifecycle_stage: active
+run_id: 82abbf2a6365444b9eb23d4c6ede54be
+run_name: capable-finch-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771968006707
+status: 3
+tags: []
+user_id: aryan
