@@ -23,9 +23,11 @@ param_grid = {
 }
 
 
-
 # Applying GridSearchCV
 grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1, verbose=2)
+
+# AFTER THIS MY ML MODEL WILL TRAIN = 60 TIMES  BASED ON CV=5 AND PARAMS = 4*3
+# AFTER THIS MY ML MODEL WILL TRAIN = 60 TIMES  BASED ON CV=5 AND PARAMS = 4*3
 
 # # Run without MLflow from here
 # grid_search.fit(X_train, y_train)
@@ -37,6 +39,7 @@ grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1,
 # print(best_params)
 # print(best_score)
 # # Till here
+# AFTER THIS MY ML MODEL WILL TRAIN = 60 TIMES  BASED ON CV=5 AND PARAMS = 4*3
 
 
 mlflow.set_experiment('breast-cancer-rf-hp')
