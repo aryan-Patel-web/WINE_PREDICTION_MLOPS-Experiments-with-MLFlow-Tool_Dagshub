@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/292417627803132736
+creation_time: 1771907683937
+experiment_id: '292417627803132736'
+last_update_time: 1771907683937
+lifecycle_stage: active
+name: MLOPS-Exp1-MLflow-Tracking
+workspace: default

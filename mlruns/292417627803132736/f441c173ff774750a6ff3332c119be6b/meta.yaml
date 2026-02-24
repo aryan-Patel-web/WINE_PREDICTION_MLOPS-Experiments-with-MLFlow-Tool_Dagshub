@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/292417627803132736/f441c173ff774750a6ff3332c119be6b/artifacts
+end_time: 1771957488760
+entry_point_name: ''
+experiment_id: '292417627803132736'
+lifecycle_stage: active
+run_id: f441c173ff774750a6ff3332c119be6b
+run_name: mercurial-crab-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771957446051
+status: 3
+tags: []
+user_id: aryan

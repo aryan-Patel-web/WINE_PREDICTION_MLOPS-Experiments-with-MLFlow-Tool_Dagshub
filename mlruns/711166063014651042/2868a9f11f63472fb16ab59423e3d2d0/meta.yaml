@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/711166063014651042/2868a9f11f63472fb16ab59423e3d2d0/artifacts
+end_time: 1771965452671
+entry_point_name: ''
+experiment_id: '711166063014651042'
+lifecycle_stage: active
+run_id: 2868a9f11f63472fb16ab59423e3d2d0
+run_name: nosy-calf-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771965443149
+status: 3
+tags: []
+user_id: aryan

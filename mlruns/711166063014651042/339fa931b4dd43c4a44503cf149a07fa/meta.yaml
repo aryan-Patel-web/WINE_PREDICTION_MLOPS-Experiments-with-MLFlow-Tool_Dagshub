@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/711166063014651042/339fa931b4dd43c4a44503cf149a07fa/artifacts
+end_time: 1771965359783
+entry_point_name: ''
+experiment_id: '711166063014651042'
+lifecycle_stage: active
+run_id: 339fa931b4dd43c4a44503cf149a07fa
+run_name: wistful-lamb-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771965350413
+status: 3
+tags: []
+user_id: aryan
